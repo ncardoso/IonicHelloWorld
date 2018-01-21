@@ -1,1 +1,3 @@
 # IonicHelloWorld
+
+Test local GIT 
